@@ -1,13 +1,13 @@
 {
   "metadata": {
     "title": "EliteFit — Internal Project Plan",
-    "version": "1.2",
+    "version": "1.3",
     "stage": "Pre-planning",
     "audience": "Internal coordination",
     "schedule_basis": "Seven months including technical integration; website M1–4, integration M5–7, SEO M5–12 after website approval",
     "canonical_source": "plan-data.json",
-    "markdown_filename": "Elite-Fit-Internal-Project-Plan-v1.2.md",
-    "html_filename": "Elite-Fit-Internal-Project-Plan-v1.2.html",
+    "markdown_filename": "Elite-Fit-Internal-Project-Plan-v1.3.md",
+    "html_filename": "Elite-Fit-Internal-Project-Plan-v1.3.html",
     "csv_filename": "tasks.csv"
   },
   "roles": [
@@ -394,7 +394,7 @@
             "CONTINUE"
           ],
           "label": "Research, publish and improve SEO",
-          "deliverable": "First ten SEO pages after approval, then ongoing SEO through Month 12.",
+          "deliverable": "First 20 SEO pages across Months 5–7 after website approval, then ongoing agreed SEO through Month 12.",
           "short_label": "SEO"
         }
       ]
@@ -695,7 +695,7 @@
         "P19"
       ],
       "helpers": "Raoul; Betzy; Patrick; Mohammed",
-      "outcome": "After website approval, agree and create the first ten SEO pages, then manage the later SEO work through Month 12.",
+      "outcome": "After website approval, agree and create the first 20 SEO pages across Months 5–7, then manage ongoing agreed SEO in Months 8–12. The later production volume is still to be selected.",
       "status": "Planned · completion not checked",
       "dependency_note": "Starts in Month 5 after Month 4 website approval and launch. It does not wait for the Month 7 integration release. Ryan owns SEO; Mohammed and our technical lead own their support areas."
     },
@@ -949,17 +949,17 @@
     "sources": [
       {
         "title": "13 October Patrick meeting transcript",
-        "path": "../meetings/2026-10-13-patrick-meeting-part-3-transcript.txt",
-        "detail": "52:18 GymMaster; 52:24 Moka; 52:31 “LaFu”; 52:41 “Reserve”. 53:27–54:29: assess integration options and test every customer touchpoint."
+        "detail": "52:18 GymMaster; 52:24 Moka; 52:31 “LaFu”; 52:41 “Reserve”. 53:27–54:29: assess integration options and test every customer touchpoint.",
+        "availability": "Retained in the private local project record; not included in this operations workspace."
       },
       {
         "title": "21 October internal integration plan for Mohammed",
-        "path": "../codex-scope-2026-10-21/Elite-Fit-Internal-Integration-Plan-Mohammed-2026-10-21.md",
+        "path": "../../reference/local-documents/codex-scope-2026-10-21/Elite-Fit-Internal-Integration-Plan-Mohammed-2026-10-21.md",
         "detail": "Dated product research: standard GymMaster module; public ESB Order QS material is restaurant-oriented and shows a payment redirect. It does not prove EliteFit product fit, embedded payment or a ready-made connection."
       },
       {
         "title": "21 October feasibility and delivery plan",
-        "path": "../codex-scope-2026-10-21/Elite-Fit-Integration-Feasibility-and-Delivery-Plan-2026-10-21.md",
+        "path": "../../reference/local-documents/codex-scope-2026-10-21/Elite-Fit-Integration-Feasibility-and-Delivery-Plan-2026-10-21.md",
         "detail": "Checkout preference, pass-credit rule, customer records and agreed WhatsApp/SMS follow-up. Earlier commercial boundaries and exact dates are superseded by the current instructions."
       }
     ],
@@ -1026,10 +1026,6 @@
   },
   "sources": [
     {
-      "title": "Previous proposal timeline — Patrick summary v1.5 (timeline only)",
-      "url": "../meetings/Elite-Fit-Meeting-Summary-for-Patrick-v1.5.md"
-    },
-    {
       "title": "GOV.UK alpha guidance",
       "url": "https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works"
     },
@@ -1054,16 +1050,12 @@
       "url": "https://docs.stripe.com/webhooks"
     },
     {
-      "title": "13 October Patrick meeting transcript",
-      "url": "../meetings/2026-10-13-patrick-meeting-part-3-transcript.txt"
-    },
-    {
       "title": "21 October internal integration plan for Mohammed",
-      "url": "../codex-scope-2026-10-21/Elite-Fit-Internal-Integration-Plan-Mohammed-2026-10-21.md"
+      "url": "../../reference/local-documents/codex-scope-2026-10-21/Elite-Fit-Internal-Integration-Plan-Mohammed-2026-10-21.md"
     },
     {
       "title": "21 October feasibility and delivery plan",
-      "url": "../codex-scope-2026-10-21/Elite-Fit-Integration-Feasibility-and-Delivery-Plan-2026-10-21.md"
+      "url": "../../reference/local-documents/codex-scope-2026-10-21/Elite-Fit-Integration-Feasibility-and-Delivery-Plan-2026-10-21.md"
     }
   ]
 }

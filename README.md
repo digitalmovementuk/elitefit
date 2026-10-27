@@ -5,6 +5,7 @@ Project implementation only: website, copy, SEO and technical integration.
 ## Start here
 
 - [Internal project plan](project-management/internal-plan/index.html) — schedule, responsibilities and tasks.
+- [Operational reference library](reference/index.html) — searchable research, copy, design and technical documents from earlier local work. Historical references; the current plan takes precedence.
 - [Design prototypes](design/prototypes/README.md) — links to the available design demos.
 - [Brand guidelines](brand/guidelines/EF%20Brand%20Guidelines%20V2%202026.pdf) — use the version on the cover: **Version 3, 27 October 2026**. The original filename still says V2.
 - [How to add or change work](CONTRIBUTING.md) — a short guide for the team.
@@ -19,7 +20,7 @@ The production website build has not started. The prototypes are design demos an
 | Full technical integration | Months 5–7 | Integration requirements and implementation |
 | SEO | Months 5–12 | Starts after website approval |
 
-Use the internal project plan for the detailed tasks and dependencies.
+The first 20 SEO pages are delivered across Months 5–7 after website approval. Later production volume is still to be agreed. Use the internal project plan for the detailed tasks and dependencies.
 
 ## Who does what
 
@@ -45,6 +46,7 @@ Use the internal project plan for the detailed tasks and dependencies.
 | `seo/` | `research/`, `page-plan/`, `pages/` and `reporting/` |
 | `technical-integration/` | `requirements/`, `system-notes/`, `development/` and `testing/` |
 | `presentations/project-updates/` | Implementation updates without agency pricing |
+| `reference/` | Imported historical operational documents and their supporting files; start with the searchable catalogue |
 | `assets/` | Shared `photography/` and `screenshots/` |
 | `homepage-prototype/v1/` and `v2/` | Earlier homepage demos, kept for reference |
 

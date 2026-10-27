@@ -29,3 +29,7 @@ Saving work to GitHub does not approve publication to the live client website. G
 ## Operations only
 
 Do not upload agency prices, fees, margins, commercial proposals, quotes or owner decks containing prices here. Keep those files in the separate private Sales workspace. A folder inside this repository cannot restrict access. EliteFit’s customer-facing pass and membership prices may appear when needed for website implementation.
+
+## Historical reference documents
+
+Use the [reference catalogue](reference/index.html) to find imported research, design, copy and technical documents. These files record earlier work; the current project plan wins when dates or scope differ. Make new working changes in the matching active project folder and link back to a historical reference when useful. Keep the imported file manifest as the record of the original import.
