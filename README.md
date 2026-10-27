@@ -5,6 +5,7 @@ Project implementation only: website, copy, SEO and technical integration.
 ## Start here
 
 - [Internal project plan](project-management/internal-plan/index.html) — schedule, responsibilities and tasks.
+- [Editable Word plan](project-management/internal-plan/Elite-Fit-Internal-Project-Plan-v1.3.docx) — download, edit in Word and share proposed changes with Betzy.
 - [Operational reference library](reference/index.html) — searchable research, copy, design and technical documents from earlier local work. Historical references; the current plan takes precedence.
 - [Design prototypes](design/prototypes/README.md) — links to the available design demos.
 - [Brand guidelines](brand/guidelines/EF%20Brand%20Guidelines%20V2%202026.pdf) — use the version on the cover: **Version 3, 27 October 2026**. The original filename still says V2.

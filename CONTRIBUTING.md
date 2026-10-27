@@ -20,6 +20,10 @@ Keep feedback for each item in one shared place. Design feedback belongs in `des
 
 Edit [plan-data.json](project-management/internal-plan/plan-data.json), then regenerate the plan using [_build/build_deck.py](project-management/internal-plan/_build/build_deck.py). The script updates HTML, Markdown and CSV. Use **Print / PDF** in the updated presentation to refresh the PDFs. Save the source and updated outputs together so the timeline, monthly view and task list agree.
 
+## Edit the Word plan
+
+Download the editable Word plan from the project guide. Team members can edit its text, tables and Gantt cells in Word. Use Comments or Track Changes for proposed changes, then upload the updated file here. Betzy records agreed changes in plan-data.json so the online plan and task list stay aligned. Preserve team edits before running _build/build_word.py, which replaces the Word file.
+
 ## Before saving
 
 Open the changed file and check that it reads correctly and its links work. This is a public repository: never upload passwords, access tokens or customer records.

@@ -23,3 +23,6 @@
 
 /* Give the Month 7 integration label a clear gutter before its task. */
 @media print, screen and (min-width:701px){.month-slide[data-slide-id="month-7"] .month-row[data-workstream="integration"]>div>strong{display:block;max-width:280px}}
+
+/* Editable Word copy */
+.viewer-controls .word-download{display:inline-flex;align-items:center;justify-content:center;min-height:44px;min-width:44px;padding:8px 12px;font-size:15px;border:1px solid #6B7368;border-radius:5px;text-decoration:none}.viewer-controls .word-download:hover{background:#3C4443}
