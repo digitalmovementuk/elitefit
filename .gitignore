@@ -11,3 +11,8 @@ node_modules/
 credentials/
 secrets/
 _qa/
+
+# Agency commercial documents belong in the private Sales repository
+/sales/
+/commercial/
+/presentations/owners/

@@ -4,7 +4,7 @@ Use this guide when adding designs, copy, code or project files to the [EliteFit
 
 ## Add a file on GitHub
 
-1. Open the [repository](https://github.com/digitalmovementuk/elitefit) and choose the matching folder from the [folder guide](README.md#where-work-belongs).
+1. Open the [repository](https://github.com/digitalmovementuk/elitefit-ops) and choose the matching folder from the [folder guide](README.md#where-work-belongs).
 2. Choose **Add file → Upload files**, or open an existing text file and choose the pencil icon to edit it.
 3. Give the file a clear name. Add **draft**, **review** or **approved** to its name, or record the status in the folder’s README. Use **approved** only after approval has been given.
 4. Describe the change in a short commit message, such as “Add draft membership page copy”. A commit saves the change in the project’s history.
@@ -25,3 +25,7 @@ Edit [plan-data.json](project-management/internal-plan/plan-data.json), then reg
 Open the changed file and check that it reads correctly and its links work. This is a public repository: never upload passwords, access tokens or customer records.
 
 Saving work to GitHub does not approve publication to the live client website. Get separate approval before publishing there.
+
+## Operations only
+
+Do not upload agency prices, fees, margins, commercial proposals, quotes or owner decks containing prices here. Keep those files in the separate private Sales workspace. A folder inside this repository cannot restrict access. EliteFit’s customer-facing pass and membership prices may appear when needed for website implementation.

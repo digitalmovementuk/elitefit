@@ -1,6 +1,6 @@
 # EliteFit — internal project plan
 
-[Open the current plan](https://digitalmovementuk.github.io/elitefit/project-management/internal-plan/)
+[Open the current plan](https://digitalmovementuk.github.io/elitefit-ops/project-management/internal-plan/)
 
 Current version: **v1.2**. Website Months 1–4; full technical integration Months 5–7. SEO starts after website approval in Month 5 and continues through Month 12.
 

@@ -1,6 +1,6 @@
-# EliteFit project workspace
+# EliteFit operations workspace
 
-One place for the EliteFit website, copy, SEO and technical integration work.
+Project implementation only: website, copy, SEO and technical integration.
 
 ## Start here
 
@@ -44,7 +44,7 @@ Use the internal project plan for the detailed tasks and dependencies.
 | `copy/` | Working `core-pages/` and final `approved/` copy |
 | `seo/` | `research/`, `page-plan/`, `pages/` and `reporting/` |
 | `technical-integration/` | `requirements/`, `system-notes/`, `development/` and `testing/` |
-| `presentations/owners/` | Presentations for Putu and Richard |
+| `presentations/project-updates/` | Implementation updates without agency pricing |
 | `assets/` | Shared `photography/` and `screenshots/` |
 | `homepage-prototype/v1/` and `v2/` | Earlier homepage demos, kept for reference |
 
@@ -60,6 +60,10 @@ The build script updates HTML, Markdown and `tasks.csv`. After a plan change, op
 
 Put each file in its matching folder. Mark its status as **draft**, **review** or **approved** in the filename or nearby README. Collect feedback in one place, and record decisions in `project-management/decisions/`.
 
-Team members with write access can add, edit and upload files through [GitHub](https://github.com/digitalmovementuk/elitefit). Follow the [contribution guide](CONTRIBUTING.md) for the simple steps.
+Team members with write access can add, edit and upload files through [GitHub](https://github.com/digitalmovementuk/elitefit-ops). Follow the [contribution guide](CONTRIBUTING.md) for the simple steps.
 
 This repository is public. Keep passwords, access tokens and customer records out of it. Publishing changes to the live client website needs separate approval.
+
+## Operations only
+
+Do not upload agency prices, fees, margins, commercial proposals, quotes or owner decks containing prices here. Keep those files in the separate private Sales workspace. A folder inside this repository cannot restrict access. EliteFit’s customer-facing pass and membership prices may appear when needed for website implementation.
