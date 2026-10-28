@@ -1125,7 +1125,7 @@ function viewDone(p) {
       } else { rows.push(row('Pass', passName(bk.pass))); }
       rows.push(row('Ref', bk.ref));
       wrap.appendChild(h('dl', { cls: 'summary' }, rows));
-      wrap.appendChild(h('p', { cls: 'fine', text: 'Demo booking. Nothing was charged.' }));
+      wrap.appendChild(h('p', { cls: 'fine', text: 'Demo booking.' }));
 
       /* spot counter, announced politely (B22) */
       var live = h('p', { cls: 'vh', role: 'status', 'aria-live': 'polite', 'data-testid': 'done-live' });

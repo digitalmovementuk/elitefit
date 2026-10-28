@@ -369,7 +369,7 @@ function fold(line) {
 function icsText(o, booking) {
   var club = data.club;
   var waitlist = !!(booking && booking.waitlist);
-  var desc = 'Arrive 10 minutes early and say hi at the front desk. Bring your own water bottle. Demo booking: nothing was charged.';
+  var desc = 'Arrive 10 minutes early and say hi at the front desk. Bring your own water bottle. Demo booking.';
   if (waitlist) { desc += " You're on the waitlist. We'll WhatsApp you if a spot opens."; }
   var ref = booking && booking.ref ? booking.ref : 'EF-DEMO-0000';
   var lines = [
